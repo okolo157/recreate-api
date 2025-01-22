@@ -1,0 +1,3 @@
+- use gemini ai as fallback, originally use gpt canvas
+- extract routes to new file, use general server/index.js
+- add sign in and sign up logic
